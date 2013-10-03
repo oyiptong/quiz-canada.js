@@ -251,7 +251,7 @@ var questions = [
    {
       "question": "What is the highest honour bestowed by the Canadian music industry?",
       "answer": "A Juno award",
-      "image": "http://www.thegate.ca/wp-content/uploads/2011/03/2010-Juno-Award-Statue.jpg",
+      "image": "http://awmusic.ca/1/photos/juno-award.jpg",
    },
    {
       "question": "Is the average life expectancy for Canadians higher or lower than 80 years?",
