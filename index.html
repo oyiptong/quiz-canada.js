@@ -34,8 +34,8 @@
             <div class="slides">
                 <section ng-repeat="quiz in quizzes">
                     <p><strong>{{quiz.question}}</strong></p>
-                    <img ng-show="quiz.image" src="{{quiz.image||'#'}}" alt="quiz image">
                     <div class="fragment">
+                        <img ng-show="quiz.image" src="{{quiz.image||'#'}}" alt="quiz image">
                         <p>{{quiz.answer}}</p>
                     </div>
                 </section>
