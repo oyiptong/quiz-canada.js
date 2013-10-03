@@ -28,14 +28,13 @@
     </head>
 
     <body ng-cloak>
-        <img class="flag" src="images/Canada_Maple_leaf.svg"></img>
-        <div id="flag-borders"></div>
+        <img class="flag" src="https://upload.wikimedia.org/wikipedia/en/c/cf/Flag_of_Canada.svg"></img>
         <div class="reveal" ng-controller="slideCtrl">
             <div class="slides">
                 <section ng-repeat="quiz in quizzes">
                     <p><strong>{{quiz.question}}</strong></p>
                     <div class="fragment">
-                        <img ng-show="quiz.image" src="{{quiz.image||'#'}}" alt="quiz image">
+                        <img height="300px" ng-show="quiz.image" src="{{quiz.image||'#'}}" alt="quiz image">
                         <p>{{quiz.answer}}</p>
                     </div>
                 </section>
