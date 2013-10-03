@@ -434,7 +434,7 @@ var questions = [
    {
       "question": "Which of the following are not real Canadian cities?  Moose Jaw, Flin Flon, Firefox, Forget",
       "answer": "Firefox",
-      "image": "file:///usr/lib64/firefox/browser/icons/mozicon128.png",
+      "image": "http://upload.wikimedia.org/wikipedia/en/e/e3/Firefox-logo.svg",
    },
    {
       "question": "Which is further south:  the southernmost point of Canada or the nothernmost point of California?",
