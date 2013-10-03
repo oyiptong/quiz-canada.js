@@ -251,7 +251,7 @@ var questions = [
    {
       "question": "What is the highest honour bestowed by the Canadian music industry?",
       "answer": "A Juno award",
-      "image": "http://www.thegate.ca/wp-content/uploads/2011/03/2010-Juno-Award-Statue.jpg",
+      "image": "http://awmusic.ca/1/photos/juno-award.jpg",
    },
    {
       "question": "Is the average life expectancy for Canadians higher or lower than 80 years?",
@@ -434,7 +434,7 @@ var questions = [
    {
       "question": "Which of the following are not real Canadian cities?  Moose Jaw, Flin Flon, Firefox, Forget",
       "answer": "Firefox",
-      "image": "file:///usr/lib64/firefox/browser/icons/mozicon128.png",
+      "image": "http://upload.wikimedia.org/wikipedia/en/e/e3/Firefox-logo.svg",
    },
    {
       "question": "Which is further south:  the southernmost point of Canada or the nothernmost point of California?",
